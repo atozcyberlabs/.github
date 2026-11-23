@@ -1,8 +1,10 @@
 # Welcome to AtoZ CyberLabs
 
-**Repair · Protect · Learn · Explore**
+Repair · Protect · Learn · Explore
 
-Welcome to the Cyber Bench—our shared repair workspace across both stores. Use the Repair Toolbox to find troubleshooting guides, diagnostic tools, and videos.
+Welcome to the AtoZ CyberBench—our shared repair workspace across both stores.
+
+Open the Repair Toolbox below and choose the problem you’re working on. You’ll find troubleshooting guides, diagnostic tools, reference links, and videos to help you work through it.
 
 **Looking for repair instructions? Open the Repair Toolbox below and choose the problem you’re working on.**
 
