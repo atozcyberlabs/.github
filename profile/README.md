@@ -2,7 +2,7 @@
 
 **Repair · Protect · Learn · Explore**
 
-We're a San Diego device repair shop and cyber lab, inside AtoZ Wireless. We share practical resources for troubleshooting everyday tech, exploring robotics and drones, and protecting your devices and data.
+Welcome to the Cyber Bench—our shared repair workspace across both stores. Use the Repair Toolbox to find troubleshooting guides, diagnostic tools, and videos.
 
 **Looking for repair instructions? Open the Repair Toolbox below and choose the problem you’re working on.**
 
