@@ -1,6 +1,6 @@
 # Welcome to AtoZ CyberLabs
 
-Repair · Protect · Learn · Explore
+**Repair · Protect · Learn · Explore**
 
 Welcome to the AtoZ CyberBench—our shared repair workspace across both stores.
 
